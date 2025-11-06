@@ -75,10 +75,14 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
 
-    labels[0]:{"texts":["5·16 군사정변으로 집권, 경제개발 5개년 계획으로 산업화 추진, 유신체제 수립으로 장기독재 강화, 1979년 중앙정보부장 김재규에 의해 피살"]},
-    labels[1]:{"texts":["검사 출신, 문재인 정부에서 검찰총장 역임, 보수 진영 후보로 정계 입문, “법과 원칙” 강조, 정치적 대립 및 국정운영 논란 존재"]},
-    labels[2]:{"texts":["서울시장 출신, “747 공약”(7% 성장·4만 달러 소득·세계 7대 강국) 제시, 4대강 사업 등 대규모 토목정책 추진, 임기 후 다수의 비리 의혹으로 구속"]},
-    labels[3]:{"texts":["대한민국 초대 대통령, 정부 수립 주도, 자유당 정권을 통해 장기집권 시도, 4·19 혁명으로 하야"]},
+    labels[0]:{"texts":["5·16 군사정변으로 집권, 경제개발 5개년 계획으로 산업화 추진, 유신체제 수립으로 장기독재 강화, 1979년 중앙정보부장 김재규에 의해 피살"],
+              "videos":[https://www.youtube.com/shorts/DGOaRkhhcEs?feature=share]},
+    labels[1]:{"texts":["검사 출신, 문재인 정부에서 검찰총장 역임, 보수 진영 후보로 정계 입문, “법과 원칙” 강조, 정치적 대립 및 국정운영 논란 존재"],
+              "videos":[https://www.youtube.com/shorts/vKhXMpzkbe4?feature=share]},
+    labels[2]:{"texts":["서울시장 출신, “747 공약”(7% 성장·4만 달러 소득·세계 7대 강국) 제시, 4대강 사업 등 대규모 토목정책 추진, 임기 후 다수의 비리 의혹으로 구속"],
+              "videos":[https://www.youtube.com/shorts/esen1IW5K4A?feature=share]},
+    labels[3]:{"texts":["대한민국 초대 대통령, 정부 수립 주도, 자유당 정권을 통해 장기집권 시도, 4·19 혁명으로 하야"],
+              "videos":[]},
 
     
 }
