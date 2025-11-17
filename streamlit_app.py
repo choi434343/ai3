@@ -80,7 +80,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
                "images":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK7DzE9FHSuiANUDo1ZohYBrRtxBWCc8to-HSuFSkpne-lgX7WXkup1v9JuX_BdvbkPwHdxR0lBJkA9szqtO6Z3i6F3VFr8BkE-fNUI245&s=10"]},
     labels[1]:{"texts":["검사 출신, 문재인 정부에서 검찰총장 역임, 보수 진영 후보로 정계 입문, “법과 원칙” 강조, 정치적 대립 및 국정운영 논란 존재"],
               "videos":["https://www.youtube.com/shorts/vKhXMpzkbe4?feature=share"],
-               "images":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohC3AyaKtZ900pGNaX_6wSkJTZGjIOaxU8OOuQPYu5jVcKRqh0IlhhzgSvrQLSdsqzIS2s2EHamWB0p_YFr4nFvDK3Mt3U1Bc0XWuul5s&s=10"]},
+               "images":["https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQ-72IpJJNcAFrk45OQmYXp_QsD4BS-SXy2t1VNx70zrAdXoE61PKpbZmowAh3jbrYbuTrydM6Mz1U6Gzo"]},
     labels[2]:{"texts":["서울시장 출신, “747 공약”(7% 성장·4만 달러 소득·세계 7대 강국) 제시, 4대강 사업 등 대규모 토목정책 추진, 임기 후 다수의 비리 의혹으로 구속"],
               "videos":["https://www.youtube.com/shorts/esen1IW5K4A?feature=share"],
               "images":["https://i.namu.wiki/i/X33G_5-PXjau_-uCVUUzItccyGzkAlmUOW4ZTRPNjZ2RhxWZ9TrEQ-ZPnhXRiDJV5Wj1takgOvgIDIigBlRKHDufBR9IEaHNJTipb7Zo3-8AzfK5TNnezY6y4WDrP9b4T0d-rloed-zaTDI8vbfwGg.webp"]},
