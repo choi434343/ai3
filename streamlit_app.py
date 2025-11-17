@@ -81,6 +81,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
               "videos":["https://www.youtube.com/shorts/vKhXMpzkbe4?feature=share"]},
     labels[2]:{"texts":["서울시장 출신, “747 공약”(7% 성장·4만 달러 소득·세계 7대 강국) 제시, 4대강 사업 등 대규모 토목정책 추진, 임기 후 다수의 비리 의혹으로 구속"],
               "videos":["https://www.youtube.com/shorts/esen1IW5K4A?feature=share"]},
+              "images":["https://i.namu.wiki/i/X33G_5-PXjau_-uCVUUzItccyGzkAlmUOW4ZTRPNjZ2RhxWZ9TrEQ-ZPnhXRiDJV5Wj1takgOvgIDIigBlRKHDufBR9IEaHNJTipb7Zo3-8AzfK5TNnezY6y4WDrP9b4T0d-rloed-zaTDI8vbfwGg.webp"],
     labels[3]:{"texts":["대한민국 초대 대통령, 정부 수립 주도, 자유당 정권을 통해 장기집권 시도, 4·19 혁명으로 하야"],
               "videos":[]},
 
