@@ -83,7 +83,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
               "videos":["https://www.youtube.com/shorts/esen1IW5K4A?feature=share"]},
               "images":["https://i.namu.wiki/i/X33G_5-PXjau_-uCVUUzItccyGzkAlmUOW4ZTRPNjZ2RhxWZ9TrEQ-ZPnhXRiDJV5Wj1takgOvgIDIigBlRKHDufBR9IEaHNJTipb7Zo3-8AzfK5TNnezY6y4WDrP9b4T0d-rloed-zaTDI8vbfwGg.webp"]},
     labels[3]:{"texts":["대한민국 초대 대통령, 정부 수립 주도, 자유당 정권을 통해 장기집권 시도, 4·19 혁명으로 하야"],
-              "videos":[]},
+              "videos":["https://youtube.com/shorts/scPHalWlb2c?si=YpIy4Ov8_dz6K3aY"]},
 
     
 
