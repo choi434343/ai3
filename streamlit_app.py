@@ -85,7 +85,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[3]:{"texts":["대한민국 초대 대통령, 정부 수립 주도, 자유당 정권을 통해 장기집권 시도, 4·19 혁명으로 하야"],
               "videos":["https://youtube.com/shorts/scPHalWlb2c?si=YpIy4Ov8_dz6K3aY"]},
 
-    
+} 
 
 
 # ======================
